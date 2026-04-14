@@ -142,3 +142,6 @@ Translates the structural pipeline outputs into human-readable arrays, PDFs, and
 - **Report Generator:** Recompiles the AI Agent strategies alongside the ML Probability ratings to finalize structured reports.
 - **Display Predictions:** Sends arrays to the screen (DataFrame visualizers, KPI Metrics, Matrix Heatmaps).
 - **Download CSV / Download PDF:** Allows structured output saves, rendering persistent copies of pipeline outputs.
+
+---
+*Note: The Agentic AI Layer logic is driven by the rule-based configurations defined in the knowledge base.*
